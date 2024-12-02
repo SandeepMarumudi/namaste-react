@@ -1,0 +1,1 @@
+bundlers=parcel,vite,webpack are the bundlers 
